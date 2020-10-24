@@ -1,10 +1,9 @@
-### Hi there 👋, I am Ibrahim Tarigan.
+### Hi there 👋, I'm Ibrahim Tarigan.
 👨‍💻 I’m currently active on javascript/typescript. <br/>
 🔎 I’m currently learning react-native. <br/>
 #### About Me:
 👨‍🎓 Graduate at STMIK - STIE Mikroskil. <br/>
 🌏 Medan, indonesia. <br/>
-🔍 Looking for job
 #### 📫 How to reach me:
 - [Whatsapp](https://api.whatsapp.com/send?phone=6281260009709)
 - [Instagram](http://instagram.com/ibrahimtrg18)
